@@ -1,1 +1,1 @@
-
+INSERT INTO med (id) VALUES(4);
