@@ -128,7 +128,7 @@
 			    <configuration>
 				    
 				 <baselineOnMigrate>true</baselineOnMigrate>
-				 <url>jdbc:mysql://3.14.246.118:3306</url>
+				 <url>jdbc:mysql://3.17.165.81:3306</url>
 				         <user>inguser6</user>
 					  <password>H@ckath0n</password>
 				    
