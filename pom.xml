@@ -129,11 +129,11 @@
 				    
 				 <baselineOnMigrate>true</baselineOnMigrate>
 				 <url>jdbc:mysql://3.14.254.144:3306</url>
-				         <user>inguser6</user>
+				         <user>mediuser1</user>
 					  <password>H@ckath0n</password>
 				    
 			      <schemas>
-				  <schema>medi</schema>
+				  <schema>mediclaim</schema>
 			      </schemas>
 			  </configuration>	
 			 </plugin>
