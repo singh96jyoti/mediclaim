@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.strikers</groupId>
 	<artifactId>mediclaim</artifactId>
-	<version>0.0.10-SNAPSHOT</version>
+	<version>1.0-SNAPSHOT</version>
 	<name>mediclaim</name>
 	<description>Demo project for Spring Boot</description>
 <scm>
@@ -84,12 +84,12 @@
 <distributionManagement>
   <snapshotRepository>
     <id>nexus</id>
-    <url>http://3.14.254.144:8081/nexus/content/repositories/snapshotRepository/</url>
+    <url>http://35.154.211.106:8081/nexus/content/repositories/snapshotRepository/</url>
   </snapshotRepository>
 		
 	<repository>
    			 <id>nexus</id>
-    			<url>http://3.14.254.144:8081/nexus/content/repositories/releases</url>
+    			<url>http://35.154.211.106:8081/nexus/content/repositories/releases</url>
   		</repository>
 	
 </distributionManagement>
@@ -128,7 +128,7 @@
 			    <configuration>
 				    
 				 <baselineOnMigrate>true</baselineOnMigrate>
-				 <url>jdbc:mysql://3.14.254.144:3306</url>
+				 <url>jdbc:mysql://35.154.211.106:3306</url>
 				         <user>mediuser1</user>
 					  <password>H@ckath0n</password>
 				    
