@@ -9,14 +9,14 @@
 	</parent>
 	<groupId>com.strikers</groupId>
 	<artifactId>mediclaim</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>mediclaim</name>
 	<description>Demo project for Spring Boot</description>
 <scm>
        <connection>scm:https://github.com/singh96jyoti/mediclaim.git</connection>
        <url>https://github.com/singh96jyoti/mediclaim.git</url>
        <developerConnection>scm:git:https://github.com/singh96jyoti/mediclaim.git</developerConnection>      
-    <tag>HEAD</tag>
+    <tag>1.0</tag>
   </scm>
 	
 	<properties>
